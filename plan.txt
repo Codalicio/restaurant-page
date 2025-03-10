@@ -1,6 +1,6 @@
 # Links : 
 
 * Github : https://github.com/Codalicio/restaurant-page
-* Github Pages : 
-* Netlify : 
-* Vercel : 
+* Github Pages : https://codalicio.github.io/restaurant-page/
+* Netlify : https://stunning-choux-547c10.netlify.app/
+* Vercel : https://restaurant-page-ten-neon.vercel.app/
